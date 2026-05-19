@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 Fikri Anjeng")
+st.title("🎈 Magali Ganteng Banget")
 import streamlit as st
 st.markdown("*Streamlit* is **really** ***cool***.")
 st.markdown('''
