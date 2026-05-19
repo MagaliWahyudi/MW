@@ -1,9 +1,7 @@
 import streamlit as st
 
 st.title("🎈 Aplikasi Kelas C")
-st.write(
-    import streamlit as st
-
+import streamlit as st
 st.markdown("*Streamlit* is **really** ***cool***.")
 st.markdown('''
     :red[Streamlit] :orange[can] :green[write] :blue[text] :violet[in]
